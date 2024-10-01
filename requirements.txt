@@ -1,0 +1,5 @@
+pip install phonenumbers
+pip install geocoder
+pip install carrier
+pip install opencage
+pip install folium
