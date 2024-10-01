@@ -12,3 +12,5 @@ pip install folium
 
 Ur done! Enjoy the tracker. If you have any issues dm me on discord : dqrkles.
 or telegram : @RHDxPatron
+
+if you wanna donate here's my paypal  https://www.paypal.me/SebiGemeniucXP
